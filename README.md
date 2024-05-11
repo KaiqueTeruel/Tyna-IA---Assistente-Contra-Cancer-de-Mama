@@ -35,6 +35,12 @@ Sou alimentada pela IA mais recente, o que me permite fornecer informações pre
 ----
 ## **💻 |  Rodando localmente**
 
+#### Google Colab
+```
+https://colab.research.google.com/drive/1heVSX-W88_s1vC78wy7ylmweQXq4URXf?usp=sharing
+```
+---
+
 #### **1. Clone o projeto**
 
 ```bash
